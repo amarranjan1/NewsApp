@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="internet_error_messages">You are offline.\nTurning on mobile data or Wi-fi\nClose and reopen the app</string>
+    <string name="contnet_error_messages">No news found!\nYou are offline.\nTry Again\nAfter Check internet connection\nChecking the signal in your area</string>
+    <string name="text_category">Category</string>
+    <string name="text_date">Date</string>
+    <string name="text_title">Title</string>
+    <string name="text_by">By</string>
+    <string name="text_author">Author</string>
+</resources>
